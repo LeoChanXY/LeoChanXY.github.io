@@ -3,13 +3,18 @@
 
 
     <sitemap>
-        <loc>https://anki.wiki/post-sitemap.xml</loc>
+        <loc>https://xuexihaike.com/post-sitemap.xml</loc>
         <lastmod>2020-12-01T03:30:42.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://anki.wiki/page-sitemap.xml</loc>
+        <loc>https://xuexihaike.com/page-sitemap.xml</loc>
         <lastmod>2020-12-19T09:13:47.648Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://xuexihaike.com/category-sitemap.xml</loc>
+        <lastmod>2019-05-08T14:55:27.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
